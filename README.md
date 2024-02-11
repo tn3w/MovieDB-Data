@@ -1,4 +1,4 @@
-# MovieDB-Data
+# MovieDB-JSON
 A JSON library with 981,530 films.
 
 ## Unzipping - Using Terminal
